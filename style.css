@@ -1,0 +1,15 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	position: absolute;
+	padding: 8px;
+	cursor: pointer;
+}
+p{
+	font-size: 1.2rem;
+	color: white;
+}
